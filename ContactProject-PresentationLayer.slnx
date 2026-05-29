@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../../Contacts Console Project/ContactsProject-BusinessLogicLayer/ContactsProject-BusinessLogicLayer.csproj" Id="44022c4e-c728-449f-a242-7f56c519ade0" />
+  <Project Path="../../Contacts Console Project/ContactsProject-DataAccessLayer/ContactsProject-DataAccessLayer.csproj" Id="5a22238c-a98c-4dac-8f05-c41e4728bef2" />
+  <Project Path="ContactProject-PresentationLayer.csproj" Id="98281559-a083-4920-a3a9-53486569f068" />
+</Solution>
