@@ -1,79 +1,55 @@
-```html
-<h1>Contacts Management System</h1>
+# Contacts Management System
 
-<p>
-A full desktop <b>Contacts Management Application</b> built using
-<b>C# WinForms</b>, <b>ADO.NET</b>, and <b>SQL Server</b>
-following the <b>3-Tier Architecture</b> design pattern.
-</p>
+A full desktop **Contacts Management Application** built using **C# WinForms**, **ADO.NET**, and **SQL Server** following the **3-Tier Architecture** design pattern.
 
-<hr>
+---
 
-<h2>Features</h2>
+## Features
 
-<ul>
-    <li>Add New Contacts</li>
-    <li>Update Existing Contacts</li>
-    <li>Delete Contacts</li>
-    <li>Search Contacts</li>
-    <li>View All Contacts in DataGridView</li>
-    <li>Store Contact Images</li>
-    <li>Country Selection Support</li>
-    <li>Clean Layered Architecture</li>
-    <li>SQL Server Database Integration</li>
-</ul>
+* Add New Contacts
+* Update Existing Contacts
+* Delete Contacts
+* Search Contacts
+* View All Contacts in DataGridView
+* Store Contact Images
+* Country Selection Support
+* Clean Layered Architecture
+* SQL Server Database Integration
 
-<hr>
+---
 
-<h2>Technologies Used</h2>
+## Technologies Used
 
-<ul>
-    <li>C#</li>
-    <li>WinForms</li>
-    <li>ADO.NET</li>
-    <li>SQL Server</li>
-    <li>.NET Framework</li>
-    <li>3-Tier Architecture</li>
-</ul>
+* C#
+* WinForms
+* ADO.NET
+* SQL Server
+* .NET Framework
+* 3-Tier Architecture
 
-<hr>
+---
 
-<h2>Project Architecture</h2>
+## Project Architecture
 
-<p>
 The solution is divided into 3 main layers:
-</p>
 
-<h3>1. Presentation Layer</h3>
+### 1. Presentation Layer
 
-<p>
 Handles UI forms and user interaction.
-</p>
 
-<h3>2. Business Logic Layer (BLL)</h3>
+### 2. Business Logic Layer (BLL)
 
-<p>
 Contains business rules and application logic.
-</p>
 
-<h3>3. Data Access Layer (DAL)</h3>
+### 3. Data Access Layer (DAL)
 
-<p>
 Responsible for database communication using ADO.NET.
-</p>
 
-<hr>
+---
 
-<h2>Database</h2>
-
-<p>
+## Database
 The project uses SQL Server database.
-</p>
 
-<h3>Main Tables</h3>
-
-<ul>
-    <li>Contacts</li>
-    <li>Countries</li>
-</ul>
-```
+### Main Tables
+* Contacts
+* Countries
